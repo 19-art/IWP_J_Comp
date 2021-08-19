@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--
+         NAME: DARAHAS VANDANA
+       REG.NO: 19BCE0923
+         DATE:  12TH AUGUST 2021
+    -->
+    
+    <title>contact us</title>
+</head>
+<body>
+    
+        <h1>CONTACT US</h1>
+        <p style="color:blue">PLEASE FEEL FREE TO CONTACT US IF YOU ARE FACING ANY ISSUES</p>
+        <img src="jobs.JPG" alt="LOADING IMAGE" style="width:50%">
+        <form>
+          <table align="left">
+            <tr>
+              <td>First Name:</td>
+              <td>
+                <input type="text" name="username" value="Your first name">
+              </td>
+            </tr>
+            <tr>
+              <td>Last Name:</td>
+              <td>
+                <input type="text" name="username" value="Your last name">
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Age:
+              </td>
+              <td>
+                <input type="number" name="age" value="Enter age">
+              </td>
+            </tr>
+            <tr>
+              <td>Country:</td>
+              <td>
+                <input type="radio" name="place" value="INDIA">INDIA
+                <input type="radio" name="place" value="PAKISTAN">PAKISTAN
+                <input type="radio" name="place" value="SRI LANKA">SRI LANKA
+                <input type="radio" name="place" value="BANGLADESH">BANGLADESH
+              </td>
+            </tr>
+            <tr>
+              <td> TYPE OF QUERY</td>
+              <td>
+                <select name="text">
+                  <option value="LOGIN FAILURE">LOGIN FAILURE</option>
+                  <option value="JOB RELATED QUERY">JOB RELATED QUERY</option>
+                  <option value="PAYMENT RELATED QUERIES">PAYMENT RELATED QUERIES</option>
+                </select>
+              </td>
+            </tr>
+            <tr>
+              <td>Comments:</td>
+              <td>
+                  <textarea rows="3" cols="50" name="comments">
+              
+              </textarea>
+              </td>
+            </tr>
+            <tr> 
+            <td colspan="2">
+              <input type="submit" value="Click here!" align="center">
+            </td>
+            </tr>
+          </table>
+          <p><br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+        
+
+          
+          <strong>NAME:DARAHAS VANDANA</strong> <br>         
+          <strong>19BCE0923</strong> <br>         
+          <strong>DATE:12TH AUGUST 2021</strong> 
+          </p>         
+
+
+        </form>
+      </body>
+</html>
